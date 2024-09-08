@@ -79,7 +79,7 @@ To use the `Preprocessor` class, you need to have the following Python packages 
     - pandas 
     You can install these packages using pip: 
 
-    ```sh 
+    ```bash 
         pip install numpy pandas 
     ```
 
